@@ -6,23 +6,23 @@
 
 2，打开虚拟机；
 
-3，Sudo apt-get update
+3，sudo apt-get update
 
-4，Sudo apt-get install vim
+4，sudo apt-get install vim
 
-5，Sudo apt-get install git
+5，sudo apt-get install git
 
-6，Sudo apt-get install python-pip
+6，sudo apt-get install python-pip
 
 7，换source源，ubuntu和pip的源
 
 8，新建stack用户，授权stack用户并切换到stack用户
 
-9，在stack用户根目录下Git clone https://github.com/openstack-dev/devstack.git
+9，在stack用户根目录下git clone https://github.com/openstack-dev/devstack.git
 
-10，Git checkout stable/pike
+10，git checkout stable/pike
 
-11，Cd devstack
+11，cd devstack
 
 12，将samples下的两个文件拷贝到devstack根目录
 
